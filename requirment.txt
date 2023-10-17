@@ -1,0 +1,7 @@
+blue - 3737c7 8a9b59 b38254 619ea0
+green - 2c642e c0da71 9f9993 c7aecc
+yellow - 167671 b5d6c2 c7ad93 f4cdfc
+black - 0e0d0d 425d4d 7c7f9b 915959
+
+font-family1 : https://fonts.google.com/specimen/Poppins
+font-family2 : https://fonts.google.com/specimen/Lato
